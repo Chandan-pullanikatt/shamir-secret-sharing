@@ -1,0 +1,18 @@
+Enter the secret (a positive integer): 1234
+Enter the number of shares (n): 5
+Enter the threshold (k): 3
+
+Generated shares:
+(1, 1154)
+(2, 1034)
+(3, 974)
+(4, 974)
+(5, 1034)
+
+Do you want to reconstruct the secret? (1 for Yes / 0 for No): 1
+Enter the threshold number of shares (x and y values):
+1 1154
+2 1034
+3 974
+
+Reconstructed secret: 1234
